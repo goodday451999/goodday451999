@@ -9,13 +9,14 @@ I am <a href="https://github.com/goodday451999"> Nilotpal Pramanik</a>, currentl
 
 <b>⚡ My Experiences:</b>
 
-•  I was selected as a research intern (May - July 2019) at Nagoya University, Japan and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘.</br>
+•  I was selected as a research intern (May - July 2019) at **Nagoya University, Japan** and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘.</br>
 </br>
-•  I was selected as a summer intern (May - June 2018) at Indian Institute of Technology (IIT), Guwahati, India, I developed a geosocial android application to build a route map 🗺️ in real-time while user cycling with the application running in their mobile phones 📲. It also records background audio data to predict traffic conditions 🔊. </br>
+•  I was selected as a summer intern (May - June 2018) at **Indian Institute of Technology (IIT), Guwahati, India**, I developed a geosocial android application to build a route map 🗺️ in real-time while user cycling with the application running in their mobile phones 📲. It also records background audio data to predict traffic conditions 🔊. </br>
 
 </br>
 
 <b>📫 How to reach me: </b>
+</br>
 </br>
 <a href="https://github.com/goodday451999"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
 <a href="https://www.linkedin.com/in/pramaniknilotpal/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
