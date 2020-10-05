@@ -9,7 +9,7 @@ I am <a href="https://github.com/goodday451999"> Nilotpal Pramanik</a>, currentl
 
 <b>⚡ My Experiences:</b>
 
-•  I was selected as a research intern (May - July 2019) at Nagoya University, Japan and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘</br>
+•  I was selected as a research intern (May - July 2019) at Nagoya University, Japan and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘.</br>
 </br>
 •  I was selected as a summer intern (May - June 2018) at Indian Institute of Technology (IIT), Guwahati, India, I developed a geosocial android application to build a route map 🗺️ in real-time while user cycling with the application running in their mobile phones 📲. It also records background audio data to predict traffic conditions 🔊. </br>
 
@@ -23,7 +23,6 @@ I am <a href="https://github.com/goodday451999"> Nilotpal Pramanik</a>, currentl
 <br/>
 </br>
 <br/>
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=goodday451999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
