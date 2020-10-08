@@ -7,7 +7,7 @@ I am <a href="https://github.com/goodday451999"> Nilotpal Pramanik</a>, currentl
 </br>
 
 
-<b>⚡ My Experiences:</b>
+<b>⚡ My Experience:</b>
 
 •  I was selected as a research intern (May - July 2019) at **Nagoya University, Japan** and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘.</br>
 </br>
