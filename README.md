@@ -18,12 +18,16 @@ I am <a href="https://github.com/goodday451999"> Nilotpal Pramanik</a>, currentl
 <b>📫 How to reach me: </b>
 </br>
 </br>
+
+<!--
 <a href="https://github.com/goodday451999"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
 <a href="https://www.linkedin.com/in/pramaniknilotpal/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
+-->
+
+<img src="https://img.shields.io/badge/Linkedin-Nilotpal_Pramanik-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/pramaniknilotpal" >
+<img src="https://img.shields.io/badge/Gmail-IRM2016501@iiita.ac.in-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen" >
 </br>
-<br/>
 </br>
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=goodday451999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
