@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <a href="https://www.linkedin.com/in/pramaniknilotpal/"> Nilotpal Pramanik</a>, currently working as an Software Development Intern at Zomato and pursuing Dual Degree BTech-MTech in Information Technology with specialization in Robotics at Indian Institute of Information Technology, Allahabad, India. I am interested in the field of Android Application Development 📱, Machine Learning ⚙️, Computational Modelling 📈 and Robotics 🤖.
+I am <a href="https://www.linkedin.com/in/pramaniknilotpal/"> Nilotpal Pramanik</a>, currently working as an **Software Development Intern** at **Zomato** and pursuing Dual Degree BTech-MTech in Information Technology with specialization in Robotics at Indian Institute of Information Technology, Allahabad, India. I am interested in the field of Android Application Development 📱, Machine Learning ⚙️, Computational Modelling 📈 and Robotics 🤖.
 
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
