@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <a href="https://www.linkedin.com/in/pramaniknilotpal/"> Nilotpal Pramanik</a>, currently working as an **Software Development Intern** at **Zomato** and pursuing Dual Degree BTech-MTech in Information Technology with specialization in Robotics at Indian Institute of Information Technology, Allahabad, India. I am interested in the field of Android Application Development 📱, Machine Learning ⚙️, Computational Modelling 📈 and Robotics 🤖.
+I am <a href="https://www.linkedin.com/in/pramaniknilotpal/"> Nilotpal Pramanik</a>, currently working as an **Software Development Engineer - 1** at **Zomato**. I have completed my Dual Degree BTech-MTech in Information Technology with specialization in Robotics at Indian Institute of Information Technology, Allahabad, India. I am interested in the field of Android Application Development 📱, Machine Learning ⚙️, Computational Modelling 📈 and Robotics 🤖.
 
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -8,6 +8,10 @@ I am <a href="https://www.linkedin.com/in/pramaniknilotpal/"> Nilotpal Pramanik<
 
 
 <b>⚡ My Experience:</b>
+
+• I interned (January - June 2021) as an Software Development Engineer at **Zomato**.
+
+• I worked as a Technical Content Writer Internship (April - August 2020) at **GeeksForGeeks**.
 
 •  I was selected as a research intern (May - July 2019) at **Nagoya University, Japan** and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘.</br>
 </br>
