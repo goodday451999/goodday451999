@@ -11,7 +11,7 @@ I am <a href="https://www.linkedin.com/in/pramaniknilotpal/"> Nilotpal Pramanik<
 
 • I interned (January - June 2021) as an Software Development Engineer at **Zomato**.
 
-• I worked as a Technical Content Writer Internship (April - August 2020) at **GeeksForGeeks**.
+• I worked as a Technical Content Writer Intern (April - August 2020) at **GeeksForGeeks**.
 
 •  I was selected as a research intern (May - July 2019) at **Nagoya University, Japan** and worked on a project of Path planning with Spatio-temporal context (like an accident 🚗💥🚕, road is blocked 🚫 due to under construction 🚧) information for Autonomous Driving Vehicles 🚘.</br>
 </br>
